@@ -1,0 +1,15 @@
+﻿body {
+    padding-bottom: 60px;
+}
+
+#map {
+  height: 70vh;
+  width: 95%;
+  z-index: 1;
+  margin: auto ;
+}
+
+#ModalMap {
+    margin-top: 200px;
+    z-index: 1;
+}
